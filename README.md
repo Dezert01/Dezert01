@@ -7,7 +7,7 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 * JS / jQuery
 * Little bit of VUE
 
-### Wanna learn
+#### Wanna learn
 * React / React Native
 * any other JS Framework
 
