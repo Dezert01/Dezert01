@@ -14,5 +14,5 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 ## Experience
 My adventure with front-end started in primary school, when out of curiosity I started learning how to create websites.<br/>
 I graduated from high school in the field of IT.<br/>
-Together with my friend we created our **very first**, small project for FiveM server called [@Glibcat]{https://github.com/Glibcat} that is **already closed**.<br/>
+Together with my friend we created our **very first**, small project for FiveM server called [@Glibcat](https://github.com/Glibcat) that is **already closed**.<br/>
 Currently I'm working for [@RealmRoleplay](https://github.com/RealmRoleplay) where I create front-end for scripts available on FiveM roleplay server.
