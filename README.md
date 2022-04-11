@@ -23,6 +23,6 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 ##### Preview:
 [YouTube](https://www.youtube.com/watch?v=dlx-zKXHX2o)
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=Dezert01">
 </div>
