@@ -21,4 +21,4 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 #### Glibcat MDT - FiveM Script
 * My very first project with collaboration with my friend (we had no idea about anything)
 ##### Preview:
-[YouTube](https://www.youtube.com/watch?v=dlx-zKXHX2o)
+[YouTube](https://www.youtube.com/watch?v=dlx-zKXHX2o){:target="_blank"}
