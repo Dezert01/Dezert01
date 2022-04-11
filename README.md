@@ -18,4 +18,7 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 * Currently I'm working for [@RealmRoleplay](https://github.com/RealmRoleplay) where I create front-end for scripts available on FiveM roleplay server.
 
 ## Examples of Work
-* My very first project with collaboration with my friend (we had no idea about anything) - [Glibcat MDT - FiveM Script](https://www.youtube.com/watch?v=dlx-zKXHX2o)
+### * Glibcat MDT - FiveM Script
+My very first project with collaboration with my friend (we had no idea about anything)
+#### Preview:
+[YouTube](https://www.youtube.com/watch?v=dlx-zKXHX2o)
