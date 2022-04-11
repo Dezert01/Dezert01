@@ -23,4 +23,6 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 ##### Preview:
 [YouTube](https://www.youtube.com/watch?v=dlx-zKXHX2o)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dezert01)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dezert01)](https://github.com/anuraghazra/github-readme-stats)
+</p>
