@@ -18,10 +18,16 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 * Currently I'm working for [@RealmRoleplay](https://github.com/RealmRoleplay) where I create front-end for scripts available on FiveM roleplay server.
 
 ## Examples of Work
-#### Glibcat MDT - FiveM Script
+#### Glibcat MDT | FiveM Script [NUI]
 * My very first project with collaboration with my friend (we had no idea about anything)
 ##### Preview:
 [YouTube](https://www.youtube.com/watch?v=dlx-zKXHX2o)
+
+#### HUD for [@RealmRoleplay](https://github.com/RealmRoleplay) | Fivem Script [NUI]
+* HUD for second edition of RealmRoleplay WL-ON Server. Contains things like: speedometer, three types of notifications, player information and settings to configure it as you want to.
+
+##### Preview:
+[YouTube](https://www.youtube.com/watch?v=lZisyydAVEE)
 
 ## Summary
 <div style="display: flex; justify-content: center; width: 100%;">
