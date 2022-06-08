@@ -30,6 +30,12 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 [YouTube #1](https://www.youtube.com/watch?v=lZisyydAVEE) <br />
 [YouTube #2](https://www.youtube.com/watch?v=oVSJvuyQoZ8)
 
+#### HUD for [@RealmRoleplay](https://github.com/RealmRoleplay) | Fivem Script [NUI]
+* Vehicle shop for RealmRoleplay WL-ON Server.
+
+##### Preview:
+[YouTube](https://www.youtube.com/watch?v=P5rYjMCdhG8)
+
 ## Summary
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=Dezert01">
