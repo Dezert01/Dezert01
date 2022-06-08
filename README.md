@@ -30,8 +30,8 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 [YouTube #1](https://www.youtube.com/watch?v=lZisyydAVEE) <br />
 [YouTube #2](https://www.youtube.com/watch?v=oVSJvuyQoZ8)
 
-#### HUD for [@RealmRoleplay](https://github.com/RealmRoleplay) | Fivem Script [NUI]
-* Vehicle shop for RealmRoleplay WL-ON Server.
+#### Vehicle Shop for [@RealmRoleplay](https://github.com/RealmRoleplay) | Fivem Script [NUI]
+* Vehicle shop for second edition of RealmRoleplay WL-ON Server. Automatically generated categories, car models and information.
 
 ##### Preview:
 [YouTube](https://www.youtube.com/watch?v=P5rYjMCdhG8)
