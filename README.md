@@ -27,7 +27,7 @@ I'm Jakub from Poland and I'm second year IT student on Poznań University of Te
 * HUD for second edition of RealmRoleplay WL-ON Server. Contains things like: speedometer, three types of notifications, player information and settings to configure it as you want to.
 
 ##### Preview:
-[YouTube #1](https://www.youtube.com/watch?v=lZisyydAVEE)
+[YouTube #1](https://www.youtube.com/watch?v=lZisyydAVEE) \\
 [YouTube #2](https://www.youtube.com/watch?v=oVSJvuyQoZ8)
 
 ## Summary
